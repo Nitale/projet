@@ -1,1 +1,3 @@
 # projet
+
+Auteur : Mathieu Puget
