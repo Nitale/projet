@@ -73,12 +73,8 @@ GEM
     multi_json (1.13.1)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
-<<<<<<< HEAD
     pg (0.21.0)
     rack (1.6.9)
-=======
-    rack (1.6.8)
->>>>>>> 541fb35c87fa301831b6155fd42a11f62ed7163b
     rack-test (0.6.3)
       rack (>= 1.0)
     rails (4.2.7.1)
@@ -127,10 +123,8 @@ GEM
       actionpack (>= 3.0)
       activesupport (>= 3.0)
       sprockets (>= 2.8, < 4.0)
-<<<<<<< HEAD
-=======
+      
     sqlite3 (1.3.13)
->>>>>>> 541fb35c87fa301831b6155fd42a11f62ed7163b
     thor (0.20.0)
     thread_safe (0.3.6)
     tilt (1.4.1)
@@ -149,17 +143,13 @@ DEPENDENCIES
   coffee-rails (~> 4.0.0)
   jbuilder (~> 2.0)
   jquery-rails
-<<<<<<< HEAD
+
   pg (~> 0.21.0)
-=======
->>>>>>> 541fb35c87fa301831b6155fd42a11f62ed7163b
+
   rails (= 4.2.7.1)
   sass-rails (~> 4.0.3)
   sdoc (~> 0.4.0)
   spring
-<<<<<<< HEAD
-=======
-  sqlite3
->>>>>>> 541fb35c87fa301831b6155fd42a11f62ed7163b
+
   turbolinks
   uglifier (>= 1.3.0)
