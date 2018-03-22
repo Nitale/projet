@@ -20,5 +20,15 @@
   <%= @town.longitude %>
 </p>
 
+<p>
+  <strong>temps:</strong>
+  <%= @weather.summary %>
+</p>
+
+<p>
+  <strong>temperature:</strong>
+  <%= @weather.temperature %> °C
+</p>
+
 <%= link_to 'Edit', edit_town_path(@town) %> |
 <%= link_to 'Back', towns_path %>
