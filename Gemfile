@@ -20,6 +20,10 @@ gem 'coffee-rails', '~> 4.0.0'
 
 gem 'nokogiri', '1.8.2'
 
+gem 'rails_12factor'
+
+gem 'puma'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
