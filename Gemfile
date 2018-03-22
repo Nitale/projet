@@ -24,6 +24,8 @@ gem 'rails_12factor'
 
 gem 'puma'
 
+gem 'nominatim', '0.0.6'
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 # Turbolinks makes following links in your web application faster. Read more: https://github.com/rails/turbolinks
