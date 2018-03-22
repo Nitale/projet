@@ -12,7 +12,7 @@ class TownTest < ActiveSupport::TestCase
     assert_equal(6.8628942, belfort.longitude)
   end
   
-  test "town does not exist" do
+  test "town is not valid" do
     unknown = Town.new
     unknown.name = 'MyString'
     assert !unknown.valid?
